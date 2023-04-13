@@ -14,7 +14,6 @@ The attached dataset “daily_offers.xlsx” is a representation of steel items 
 •	Google Colab is also allowed for the coding but ensure to download it as a .ipynb file for submission.                          
 •	Taking references from the internet is accepted but the candidate must ensure that they understand the concept. They may be asked questions regarding the code.         
 •	A thoughtful, clean & commented code is expected during submission.                         
-•	Please do not upload the submission in any public sites such as GitHub. Doing so immediately disqualifies the candidate.             
 
 
 Finally, you are required to create a detailed report to document your work where you may showcase your analysis, visualizations, results, findings, etc.     
