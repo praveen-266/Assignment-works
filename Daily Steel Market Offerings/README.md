@@ -1,4 +1,4 @@
-### Dataset :
+### DATASET :
 The attached dataset “daily_offers.xlsx” is a representation of steel items offered to customers. Each row represents an item, and has an offered/selling price of that item.
 
 #### You as the Data Scientist is tasked to :           
@@ -9,7 +9,8 @@ The attached dataset “daily_offers.xlsx” is a representation of steel items 
 •	Hyperparameter tune the best regression model.                        
 •	Evaluate the best model using the metric r2 score on the testing set.                       
 
-**Instructions (Please read carefully) :**                        
+**INSTRUCTIONS (Please read carefully) :**       
+
 •	The programming must be done on Jupyter Notebook using Python language. (IDEs such as VSCode may be used to boost productivity.)                         
 •	Google Colab is also allowed for the coding but ensure to download it as a .ipynb file for submission.                          
 •	Taking references from the internet is accepted but the candidate must ensure that they understand the concept. They may be asked questions regarding the code.         
