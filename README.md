@@ -1,1 +1,1 @@
-# assignment-works 
+This repository showcases my completed assignments from various courses and educational programs. It serves as a collection of my work, demonstrating my understanding of different concepts and technologies. The README.md file provides a summary of the assignments I have completed and the skills I have acquired through these projects.
